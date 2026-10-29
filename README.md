@@ -4,6 +4,8 @@
 
 ![Toad Abode](toad-abode.png)
 
+This is a toad house that sits on the ground in your garden. The cup on top catches rain and four tiny holes in the bottom of the cup let a little water drip slowly inside. The bottom of the house is open so the water keeps the dirt underneath damp and leaves a small puddle for the toad to drink. Toads need cool, dark and damp places to hide during the day, and the archway door lets them come and go. Toads are great garden helpers because they eat slugs and bugs that munch on your plants!
+
 ## Printed with PHA 🌱
 
 **What is PHA?** PHA is a plastic made by tiny microbes! They munch on plant sugars and oils and store the PHA inside their bodies, kind of like how we store energy.
